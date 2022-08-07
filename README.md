@@ -6,3 +6,7 @@
 4. npm install express -S
 5. npm install @types/express -D
 6. npm install axios -S
+
+#npm install
+
+#npm run dev
